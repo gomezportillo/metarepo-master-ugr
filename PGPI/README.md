@@ -3,7 +3,7 @@
 ## Ejercicios
 
 * Tema 3: Proyectos I+D+i
-  * [Ejercicio de licitación](Teoría/3/licitcion.pdf)
+  * [Ejercicio de licitación](Teoría/3/licitacion.pdf)
 * Tema 4: Planificación temporal
   * [Ejercicios de planificación temporal](Teoría/4/plan_temporal.pdf)
 * Tema 5: Técnicas de estimación
@@ -19,8 +19,8 @@
 ## Prácticas
 
 * Práctica 1: Pliego técnico
-  * [Resumen de un proyecto real](Práctica/1/resumen_proyecto.pdf)
-  * [Propuesta técnica resumida del proyecto](Práctica/1/resumen_proyecto.pdf)
+  * [Resumen de un proyecto real](Práctica/1/resumen_proyecto_real.pdf)
+  * [Propuesta técnica resumida del proyecto](Práctica/1/propuesta_tecnica.pdf)
   * [Manual de coordinación](Práctica/1/manual_coordinacion.pdf)
 * Prácticas 2 y 3: Planificación temporal y estimación
   * [Diagrama de Gantt]()
