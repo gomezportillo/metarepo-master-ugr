@@ -8,3 +8,4 @@
 * [Desarrollo de Sistemas de Software basados en Componentes y Servicios](DSS)
 * [Inteligencia Computacional](IC)
 * [Platificación y Gestión de Proyectos Informáticos](PGPI)
+* [Tratamiento Inteligente de Datos](TID)
