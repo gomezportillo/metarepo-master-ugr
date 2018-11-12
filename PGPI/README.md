@@ -23,7 +23,10 @@
   * [Propuesta técnica resumida del proyecto](Práctica/1/propuesta_tecnica.pdf)
   * [Manual de coordinación](Práctica/1/manual_coordinacion.pdf)
 * Prácticas 2 y 3: Planificación temporal y estimación
-  * [Diagrama de Gantt]()
-  * [Diagrama de actividades PERT]()
-  * [Estimación de costes]()
+  * [Diagrama de Gantt](Práctica/2y3/gantt.pdf)
+  * [Diagrama de actividades PERT](Práctica/2y3/activities.pdf)
+  * [Estimación de costes](Práctica/2y3/estimation.pdf)
+  * [Achivo de ProjectLibre](Práctica/2y3/Asclepio.pod)
 * Práctica 4: Estimación de costes
+  * [Presupuesto]()
+* Prácticas 5 y 6: _Peopleware_ y gestión de riesgos 
