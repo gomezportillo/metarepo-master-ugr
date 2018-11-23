@@ -11,6 +11,7 @@
 * [Análisis de la Arquitectura de la Información del sitio web de la biblioteca de la UGR](Ejercicios/arquitectura_info.pdf)
 * [App móvi para compañías aéreas](Ejercicios/appAereas.pdf)
 * [Ejemplos de aplicaciones según su arquitectura](Ejercicios/arquitecturas_app.pdf)
+* [Diagrama _wireflow_ de la aplicación PlayStore](Ejercicios/wireflow.pdf)
 
 ## Prácticas
 
