@@ -12,6 +12,10 @@
 * [App móvi para compañías aéreas](Ejercicios/appAereas.pdf)
 * [Ejemplos de aplicaciones según su arquitectura](Ejercicios/arquitecturas_app.pdf)
 * [Diagrama _wireflow_ de la aplicación PlayStore](Ejercicios/wireflow.pdf)
+* [Evaluación Heurística de la Usabilidad de la plataforma SWAD](Ejercicios/analisis_swad.pdf)
+* [Guía de diseño de iOS](Ejercicios/guia-diseño-ios.pdf)
+* [Análisis de una aplicación bancaria](Ejercicios/app-banco.pdf)
+* [El Diseño Centrado en el Usuario y el fracaso de Software](Ejercicios/dcu-y-fracaso.pdf)
 
 ## Prácticas
 
