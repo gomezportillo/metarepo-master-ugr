@@ -15,6 +15,8 @@
   * [Procesos de selección de personal](Teoría/7/procesos-seleccion.pdf)
   * [Decálogo de productividad Peopleware](Teoría/7/productividad.pdf)
   * [Valores](Teoría/7/valores.pdf)
+* Tema 9: Gestión de calidad
+  * [Estándares de calidad](Teoría/9/gestion-calidad.pdf)
 
 ## Prácticas
 
@@ -30,3 +32,10 @@
 * Práctica 4: Estimación de costes
   * [Preparación del presupuesto del proyecto](Práctica/4/presupuesto.pdf)
 * Prácticas 5 y 6: _Peopleware_ y gestión de riesgos
+  * [Personal](Práctica/5y6/personal.pdf)
+  * [Presupuesto](Práctica/5y6/presupuesto.pdf)
+  * [Riesgos](Práctica/5y6/riesgos.pdf)
+* Prácticas 7 y 8. Gestión de Calidad y herramientas de análisis
+  * [Análisis de herramientas](Práctica/5y6/analisis_herramientas.pdf)
+  * [Herramientas seleccionadas](Práctica/5y6/herramientas_seleccionadas.pdf)
+  * [Plan de acción y calidad](Práctica/5y6/plan_de_calidad.pdf)

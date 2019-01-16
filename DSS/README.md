@@ -3,6 +3,10 @@
 ## Teoría
 
 * [Ejercicios de OCL](Ejercicios/Ejercicios_OCL.pdf)
+* [Diagrama ontológico](Ejercicios/Diagrama_ontologico.pdf)
+* [Ontología en Protégé de flores](Ejercicios/Protege-flores.pdf)
+* [Onología de coches en Protégé](Ejercicios/cars-protege.owl)
+  * [Diagrama generado con owlviz](Ejercicios/cars-owlviz.png)
 
 ## Prácticas
 
@@ -10,7 +14,15 @@
 2. [Lista de correos](https://github.com/gomezportillo/dss-listadecorreos)
 3. [Servicios web](https://github.com/gomezportillo/dss-webservices)
 4. Apache ODE y BPEL Design
-  1. [Tutorial de instalación y demo](https://github.com/gomezportillo/dss-ode_tutorial)
+  * [Tutorial de instalación y demo](https://github.com/gomezportillo/dss-ode_tutorial)
+5. Proyecto final. Sistema de administración de un consorcio de farmacias
+  * [Repositorio del servidor](https://github.com/gomezportillo/dss-pharmacy)
+    * [Aplicación desplegada en Heroku](https://dss-pharmacy.herokuapp.com/)
+  * [Repositorio de la aplicación Android](https://github.com/xenahort/Aplicacion_Android_maps_receptiva_y_adaptable)
+  * [Documentación](https://github.com/gomezportillo/dss-pharmacy/blob/master/doc/Documentacion_final.pdf)
+  * Vídeos demo
+    * [Servidor](https://www.youtube.com/watch?v=34ATytwrbNA)
+    * [Cliente](https://www.youtube.com/watch?v=LKRbPSl7Czg)
 
 ## Tests
 
