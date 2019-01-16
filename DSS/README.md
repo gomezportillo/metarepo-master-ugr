@@ -10,12 +10,12 @@
 
 ## Prácticas
 
-1. [ Patrón interceptor](https://github.com/gomezportillo/dss-interceptor)
-2. [Lista de correos](https://github.com/gomezportillo/dss-listadecorreos)
-3. [Servicios web](https://github.com/gomezportillo/dss-webservices)
-4. Apache ODE y BPEL Design
+* [ Patrón interceptor](https://github.com/gomezportillo/dss-interceptor)
+* [Lista de correos](https://github.com/gomezportillo/dss-listadecorreos)
+* [Servicios web](https://github.com/gomezportillo/dss-webservices)
+* Apache ODE y BPEL Design
   * [Tutorial de instalación y demo](https://github.com/gomezportillo/dss-ode_tutorial)
-5. Proyecto final. Sistema de administración de un consorcio de farmacias
+* Proyecto final. Sistema de administración de un consorcio de farmacias
   * [Repositorio del servidor](https://github.com/gomezportillo/dss-pharmacy)
     * [Aplicación desplegada en Heroku](https://dss-pharmacy.herokuapp.com/)
   * [Repositorio de la aplicación Android](https://github.com/xenahort/Aplicacion_Android_maps_receptiva_y_adaptable)
