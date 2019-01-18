@@ -16,6 +16,8 @@
 * [Guía de diseño de iOS](Ejercicios/guia-diseño-ios.pdf)
 * [Análisis de una aplicación bancaria](Ejercicios/app-banco.pdf)
 * [El Diseño Centrado en el Usuario y el fracaso de Software](Ejercicios/dcu-y-fracaso.pdf)
+* [Leyes de Gestalt](Ejercicios/gestalt.pdf)
+* [Mecánicas de gamificación en la práctica](Ejercicios/gamificación.pdf)
 
 ## Prácticas
 
