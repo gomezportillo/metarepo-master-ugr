@@ -36,6 +36,11 @@
   * [Presupuesto](Práctica/5y6/presupuesto.pdf)
   * [Riesgos](Práctica/5y6/riesgos.pdf)
 * Prácticas 7 y 8. Gestión de Calidad y herramientas de análisis
-  * [Análisis de herramientas](Práctica/5y6/analisis_herramientas.pdf)
-  * [Herramientas seleccionadas](Práctica/5y6/herramientas_seleccionadas.pdf)
-  * [Plan de acción y calidad](Práctica/5y6/plan_de_calidad.pdf)
+  * [Análisis de herramientas](Práctica/7y8/analisis_herramientas.pdf)
+  * [Herramientas seleccionadas](Práctica/7y8/herramientas_seleccionadas.pdf)
+  * [Plan de acción y calidad](Práctica/7y8/plan_de_calidad.pdf)
+* Práctica 9. Retrospectiva
+  * [Documentación](Práctica/9/retrospectiva.pdf)
+* Práctica A. Análisis, diseño y despliegue en una red de campus
+  * [Documentación](Práctica/A/documentacion.pdf)
+  * [Juego](http://oberon.ugr.es/hospital/)
