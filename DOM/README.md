@@ -10,6 +10,12 @@
 3. [Mandar los datos al servidor MQTT de ThingSpeak](Prácticas\Telémetro con Arduino\telemetro_v3.ino)
 4. [Mandar los datos al servidor MQTT de la escuela](Prácticas\Telémetro con Arduino\telemetro_v4.ino)
 
-### Teoría
+## Teoría
 
-* Ejercicios del tema 1
+### Ejercicios
+
+* Tema 1
+
+### Certificaciones
+
+* [Certificado KNX](Teoría\certificados\KNX.pdf)
