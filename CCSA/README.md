@@ -6,4 +6,4 @@
 
 ## Teoría
 
-* Presentación
+* [Presentación - Azure vs AWS](Teoría/Azure-vs-AWS.pdf)
