@@ -10,6 +10,8 @@
 3. [Mandar los datos al servidor MQTT de ThingSpeak](Prácticas\Telémetro con Arduino\telemetro_v3.ino)
 4. [Mandar los datos al servidor MQTT de la escuela](Prácticas\Telémetro con Arduino\telemetro_v4.ino)
 
+![Telémetro](Prácticas\Telémetro con Arduino\telemetro.jpeg)
+
 ## Teoría
 
 ### Ejercicios
