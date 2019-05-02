@@ -2,7 +2,7 @@
 
 ## Prácticas
 
-* [Repositorio](https://github.com/gomezportillo/cc2)
+* [Práctica 1. Despliegue de un servidor Owncloud con MySQL y LDAP en Azure usando contenedores](https://github.com/gomezportillo/cc2)
 
 ## Teoría
 
