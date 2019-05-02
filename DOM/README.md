@@ -2,6 +2,11 @@
 
 ## Prácticas
 
+### ETS5
+
+1. [Atenuador de luces](DOM/Prácticas/ETS5/Atenuador de luces.knxproj)
+2. [Detector de presencia](DOM/Prácticas/ETS5/Detector de presencia.knxproj)
+
 ### Telémetro con Arduino
 
 1. [Leer los datos del telémetro](Prácticas/Telémetro/telemetro_v1.ino)
