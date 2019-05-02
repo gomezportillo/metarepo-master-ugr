@@ -19,10 +19,14 @@
 
 ## Teoría
 
+### Ensayo
+
+* [Chromecast. Funcionamiento y protocolos](DOM/Teoría/Ensayo Chromecast.pdf)
+
 ### Ejercicios
 
 * Tema 1
 
-### Certificaciones
+### Certificados
 
 * [Certificado KNX](Teoría/certificados/KNX.pdf)
