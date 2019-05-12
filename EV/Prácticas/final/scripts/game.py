@@ -1,7 +1,6 @@
 import bge
 
 def menu(controller):
-	controller = bge.logic.getCurrentController()
 	scene = bge.logic.getCurrentScene()
 
 	up     = controller.sensors['Up']
@@ -28,3 +27,16 @@ def menu(controller):
 
 		if spaceship.worldPosition.y == exit_y_position:
 			bge.logic.endGame()
+
+
+def add_points(controller):
+	text_points = controller.owner
+
+	message = controller.sensors["Points_message"]
+
+	if len(message.bodies) > 0:
+		points_to_add = int(message.bodies[0])
+
+		current_points = int(text_points['Text'])
+		current_points += points_to_add
+		text_points['Text'] = current_points

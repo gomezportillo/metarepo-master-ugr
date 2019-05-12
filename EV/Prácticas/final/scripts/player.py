@@ -4,6 +4,7 @@ import math
 def move(controller):
     spaceship = controller.owner
 
+    # Key retrieval
     w_key = controller.sensors['W']
     s_key = controller.sensors['S']
     d_key = controller.sensors['D']
@@ -62,3 +63,22 @@ def move(controller):
             euler_rotation.z += ROTATION_STEP
 
     spaceship.worldOrientation = euler_rotation.to_matrix()
+
+
+def reduce_life(controller):
+    health_bar = controller.owner
+
+    message = controller.sensors["Health_message"]
+
+    if len(message.bodies) > 0:
+        lost_life = float(message.bodies[0]) # betweeen 0 and 1
+
+        x_scale = float(health_bar.localScale.x) # between 0 and 1
+        print(x_scale)
+        new_x_scale = x_scale - lost_life
+
+        if new_x_scale > 0:
+            health_bar.localScale.x = new_x_scale
+        else:
+            health_bar.localScale.x = 0
+            # game over
