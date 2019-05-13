@@ -6,6 +6,9 @@
 2. [Propuesta de diseño de un sistema inmersivo](Prácticas/2/practica_2.pdf)
 3. [Grafos de escena](Prácticas/3/practica_3.pdf)
 4. [Texturas](Prácticas/4/practica4.pdf)
+5. [Simulación física](Prácticas/4/practica5.pdf)
+6. [Interacción](Prácticas/4/practica6.pdf)
+8. [Proyecto final: Space invaders con BGE](https://github.com/gomezportillo/bge_space_invaders)
 
 ### Renderizados
 
