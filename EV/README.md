@@ -28,4 +28,4 @@
 
 ## Teoría
 
-* [Tema 2. Mapas de normales](EV/Teoría/Ejercicios/2/tema2.pdf)
+* [Tema 2. Mapas de normales](Teoría/Ejercicios/2/tema2.pdf)
