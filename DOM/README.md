@@ -21,7 +21,8 @@
 
 ### Ensayo
 
-* [Chromecast. Funcionamiento y protocolos](DOM/Teoría/Ensayo Chromecast.pdf)
+* [Chromecast. Funcionamiento y protocolos](DOM/Teoría/Ensayo/Ensayo_Chromecast.pdf)
+* [Presentación](DOM/Teoría/Ensayo/Presentacion.pdf)
 
 ### Ejercicios
 
