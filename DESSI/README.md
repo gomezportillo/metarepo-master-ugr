@@ -34,10 +34,10 @@
   * [Práctica 3.b](Práctica/3/Práctica_3.pdf)
   * [Prototipo con Justinmind final](Prácticas/3/CityGO.vp)
 * Práctica 4. Tests con usuarios y lanzamiento
-  * [Documentación](Práctica\4\Práctica_4.pdf)
+  * [Documentación](Práctica/4/Práctica_4.pdf)
   * Cuestionarios
-    * [Cuestionarios resueltos](Práctica\4\Resultados_de_los_cuestionarios.pdf)
-    * [Plantilla del cuestionario](Práctica\4\Cuestionario_en_blanco.pdf)
-    * [Test.xls](Práctica\4\Test.xlsx)
-  * [Presentación](Práctica\4\Presentación_p4.pdf)
+    * [Cuestionarios resueltos](Práctica/4/Resultados_de_los_cuestionarios.pdf)
+    * [Plantilla del cuestionario](Práctica/4/Cuestionario_en_blanco.pdf)
+    * [Test.xls](Práctica/4/Test.xlsx)
+  * [Presentación](Práctica/4/Presentación_p4.pdf)
   * [Página web](https://sites.google.com/view/citygo/)
