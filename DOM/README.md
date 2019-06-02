@@ -4,8 +4,11 @@
 
 ### ETS5
 
-1. [Atenuador de luces](DOM/Prácticas/ETS5/Atenuador de luces.knxproj)
-2. [Detector de presencia](DOM/Prácticas/ETS5/Detector de presencia.knxproj)
+1. [Atenuador de luces](Prácticas/ETS5/Atenuador de luces.knxproj)
+2. [Detector de presencia](Prácticas/ETS5/Detector de presencia.knxproj)
+3. [Detector de temperatura](Prácticas/ETS5/Detector de temperatura.knxproj)
+
+* [Memoria de prácticas](Prácticas/Memoria de prácticas.pdf)
 
 ### Telémetro con Arduino
 
@@ -23,10 +26,6 @@
 
 * [Chromecast. Funcionamiento y protocolos](DOM/Teoría/Ensayo/Ensayo_Chromecast.pdf)
 * [Presentación](DOM/Teoría/Ensayo/Presentacion.pdf)
-
-### Ejercicios
-
-* Tema 1
 
 ### Certificados
 
