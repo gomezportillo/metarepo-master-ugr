@@ -195,5 +195,6 @@
 - [x] Un proceso de generación de electricidad a partir de energía del entorno
 
 **¿Cómo se llama el dispositivo mostrado en la imagen?**
-![Licornio](img/licornio.jpg)
 - [x] Licornio
+
+![Licornio](img/licornio.jpg)
