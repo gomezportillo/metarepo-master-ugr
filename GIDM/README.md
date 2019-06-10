@@ -3,8 +3,8 @@
 ## Prácticas
 
 * [Propuesta de proyecto](GIDM/Prácticas/Propuesta.pdf)
-* [Repositorio de la práctica final](https://github.com/gomezportillo/DupPicRemover)
-
+* [Práctica final: DupPicRemover](https://github.com/gomezportillo/DupPicRemover)
+    * [Vídeo demo](https://youtu.be/dcweTR76e_E)
 
 ## Teoría
 
