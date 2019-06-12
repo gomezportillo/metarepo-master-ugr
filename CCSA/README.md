@@ -7,4 +7,5 @@
 
 ## Teoría
 
+* [Preguntas del examen](Teoría/Examen.md)
 * [Presentación - Azure vs AWS](Teoría/Azure-vs-AWS.pdf)
