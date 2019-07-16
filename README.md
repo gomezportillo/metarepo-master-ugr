@@ -22,4 +22,6 @@
 
   * [Proyecto](https://github.com/gomezportillo/mineRVa)
   * [Documentación](https://github.com/gomezportillo/mineRVa-doc)
-    * Presentación
+    * [PDF](https://github.com/gomezportillo/mineRVa-doc/blob/master/out/Documentacion.pdf)
+  * [Presentación](https://github.com/gomezportillo/mineRVa-doc/blob/master/out/Presentacion.pdf)
+    * [Plantilla de Google Slides](https://docs.google.com/presentation/d/178zoczM5jVfBt8jnwAbtjqz_YmKm2UVwL_mZIRIVbbY)
